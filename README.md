@@ -1,6 +1,6 @@
 # Project UAS Menggunakan Flutter 
 
-# Aplikasi Music
+Aplikasi Music
 
 Nama Kelompok : <br>
 Apriyani Nurnaningsih (17210681) <br>
